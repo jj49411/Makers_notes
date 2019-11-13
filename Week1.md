@@ -1,8 +1,5 @@
 # Week 1
 
-
-[Day 1](#day-1)  |  [Day 2](#day-2)  |  [Day 3](#day-3)  |  [Day 4](#day-4)  |  [Weekend Challenge](#weekend-challenge)
-
 ## Weekly Goals
 
 1. Test-drive a simple program using objects and methods
@@ -10,7 +7,14 @@
 3.Follow an effective debugging process
 4.Describe some basic OO principles like encapsulation, SRP
 
-### Day 1
+### Weeky Challenge
+
+### Daily Goals
+
+### Weekend Challenge
+
+
+### Workshops
 
 **Debugging Workshop**
 
@@ -34,8 +38,3 @@ Debugging
 **Pairing Programming - Boris Bikes Challenge**
 
 
-### Day 2
-
-### Day 3
-
-### Day 4
