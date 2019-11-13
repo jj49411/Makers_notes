@@ -14,58 +14,23 @@
 
 ### Debugging workshop  
 
-Use: error message
-1. Understand the problem (don’t take stabs in the dark)
-2. Fix it
 
-Bugs:
-- Syntax Error; compiler (e.g. IRB) doesn’t know what went wrong
-- Runtime Error; name error (haven’t declared the variable)
-- Program not terminating; infinite loop / code hangs
-- Unexpected results
-
-Tighten the loop = find the right line  
-Get visibility = use ‘p’ to get visibility on each line  
-Follow the stack trace
 
 ### Reflection with pair partner (Boris Bike):  
 
 #### 1. TDD
-- We were diligent and methodical with writing tests before production code
-(red-green-refactor).  
+
 
 #### 2. Pairing
-- We stayed positive and celebrated small successes
-- We were patient with each other and allowed for different approaches /
-experimentation. We did not interrupt each other
-- We were both assertive with our ideas / explained concepts to each other
-- We switched navigator / driver frequently
-- ! Can improve on taking breaks more frequently
+
 
 #### 3. Debugging
-- Followed the stack trace
-- Tried to identify the issue methodically
-- We remained calm when we did not understand the source of the bug
-- We googled and asked for help where appropriate   
 
-### Gaps in knowledge to revisit:
-- feature tests
-- user stories -> Domain Model
-- rspec syntax
+
 
 ## Day 2
 
-### Goal Setting
-- do some practicals
-- review extra resources from yesterday's pairing project
-- explain concepts outloud to someone  
-
-| Knowledge gap | Progress in understanding / method used |
-| --- | --- |
-| feature tests vs user test |  |
-| user stories -> Domain Model |  |
-| rspec syntax |  |
-
+### 
 
 ## Day 3
 
