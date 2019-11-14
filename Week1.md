@@ -23,6 +23,8 @@
 - GOAL: Look at basic OO principles like encapsulation, SRP & Debugging and some Ruby methods
 chars map
 matchers of expect in spec file
+attr_asscessor/reader/writer
+step 12 resources
 - REFLECTION:
 
 ### Day 4
