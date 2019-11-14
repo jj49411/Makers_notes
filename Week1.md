@@ -133,9 +133,13 @@ end
 
 > def store(amount)
 
->  "clink"
+>  "clink" if amount > 0
 
 > end
+
+>def detory
+
+>end
 
 >end
 
