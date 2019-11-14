@@ -9,22 +9,22 @@
 
 ### Daily Goals
 #### Day 1
-- GOAL: Debug errors using the knowledge from the workshop/
-- REFLECTION: -about pairing/debug
->> We did it well on our first pairing programming of the project, working on diagrams which outlined the structure of the project, brainstormed the ideas
+- GOAL: Debug errors using the knowledge from the workshop
+- REFLECTION: Learned the pairing/debugging skills
+> We did it well on our first pairing programming of the project, working on diagrams which outlined the structure of the project and brainstorming the ideas
 
 #### Day 2
 - GOAL: Understand some basic ideas of TDD/ Improve my knowledge of Domain Modelling, Feature Test and User Stories
-- REFLECTION:
->> We folloewd the steps, stopped and explained to each other the error messages, swiched deiver/navigator frequently
->> walk throgh the gaps during the pairing. 
+- REFLECTION: Got lots of practice in reading error messages, debugging
+> We folloewd the steps, stopped and explained to each other the error messages, swiched deiver/navigator frequently
+> Figured out the gaps during the pairing
 
 #### Day 3
-- GOAL: 
+- GOAL: basic OO principles like encapsulation, SRP & Debugging
 - REFLECTION:
 
 #### Day 4
-- GOAL:
+- GOAL: Practice TTD throght Birthdays project. Filling all the knowledge gaps
 - REFLECTION:
 
 
@@ -47,14 +47,12 @@ How will you validate that you progress towards the week 1 goals?
 -	Diagram of process
 -	Explain to someone
 -	Write an explaination
-
 Bugs
 -	Programme is not working as intended –Syntax error/ Runtime error (name error)/ Programme not terminating/ Unexpected results
-
 Debugging
 -	Understand the problem
 -	Fix it (intentional)
 -	Look, click on slaktries
 
-
+**TDD Workshop**
 
