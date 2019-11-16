@@ -1,6 +1,6 @@
 # Week 1
 
-[Weekly Goals]() | [Daily Goals]() | [Weekly Challenge]() | [Weekend Challenge]() | [Workshops]()
+[Weekly Goals](#weekly-goals) | [Daily Goals](#daily-goals) | [Weekly Challenge](#weekly-challenge) | [Weekend Challenge](#weekend-challenge) | [Workshops](#workshops)
 
 
 
@@ -51,13 +51,13 @@ add readme of boris
 ### Debugging Workshop
 
 1. How will you validate that you progress towards the week 1 goals?
--	Feedbacks from peers – reflection
--	Working code 
--	Airport challenge
--	Screen recording
--	Diagram of process
--	Explain to someone
--	Write an explaination
+ -	Feedbacks from peers – reflection
+ -	Working code 
+ -	Airport challenge
+ -	Screen recording
+ -	Diagram of process
+ -	Explain to someone
+ -	Write an explaination
 
 2. Bugs
 -	Programme is not working as intended –Syntax error/ Runtime error (name error)/ Programme not terminating/ Unexpected results
