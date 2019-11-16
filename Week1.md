@@ -1,5 +1,9 @@
 # Week 1
 
+[Weekly Goals]() | [Daily Goals]() | [Weekly Challenge]() | [Weekend Challenge]() | [Workshops]()
+
+
+
 ## Weekly Goals
 
 1. Test-drive a simple program using objects and methods
@@ -46,7 +50,7 @@ add readme of boris
 
 ### Debugging Workshop
 
-How will you validate that you progress towards the week 1 goals?
+1. How will you validate that you progress towards the week 1 goals?
 -	Feedbacks from peers – reflection
 -	Working code 
 -	Airport challenge
@@ -55,29 +59,29 @@ How will you validate that you progress towards the week 1 goals?
 -	Explain to someone
 -	Write an explaination
 
-Bugs
+2. Bugs
 -	Programme is not working as intended –Syntax error/ Runtime error (name error)/ Programme not terminating/ Unexpected results
 
-Debugging
+3. Debugging
 -	Understand the problem
 -	Fix it (intentional)
 -	Look, click on slaktries
 
 ### TDD Workshop
 
-TDD
+1. TDD
 - Process of writing test to guide the codes that meets user needs
 - Reason of using it is to help to break down the problem, build the project step by step
 - Can serve as docs/ Acts as safty net
 
-Steps of building up a project
+2. Steps of building up a project
 - Define user needs
 - Write user stories
 - Domain Model
 - Write a feature test (What is the beheviour I expect?)
 - `rspec -fd` (gives a description of the actions the code do)
 
-Things we need to use in spec file
+3. Things we need to use in spec file
 - `expect` matchers
     - `.to eq`
     - `.to raise_error`
@@ -85,20 +89,19 @@ Things we need to use in spec file
 - `describe`
 - `it`
 
-Live Coding
+4. Live Coding
 **PiggyBank**
 - Store money
 - Discourge people from taking it out
 - Destroy/take the money out
 - Shaking it to check there is money inside
-
+- PiggyBank object/ store method
 - User Story: 
 ```
 As a user. 
 So I can save up money. 
 I want to store money in a piggy bank.
 ```
-- PiggyBank object/ store method
 
 **Feature Test**
 ```
