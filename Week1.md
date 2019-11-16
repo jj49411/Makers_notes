@@ -25,7 +25,7 @@ chars map
 matchers of expect in spec file
 attr_asscessor/reader/writer
 step 12 resources
-- REFLECTION:
+- REFLECTION: Got better understanding on TDD process through the workshop. l
 
 ### Day 4
 - GOAL: Practice TDD throght Birthdays project. Filling all the knowledge gaps
@@ -38,6 +38,9 @@ step 12 resources
 
 ## Weekend Challenge
 **Airport**
+airport
+add readme of boris
+
 
 ## Workshops
 
@@ -72,7 +75,15 @@ Steps of building up a project
 - Write user stories
 - Domain Model
 - Write a feature test (What is the beheviour I expect?)
-- rspec -fd (gives a description of the actions the code do)
+- `rspec -fd` (gives a description of the actions the code do)
+
+Things we need to use in spec file
+- `expect` matchers
+    - `.to eq`
+    - `.to raise_error`
+    - `.to output`
+- `describe`
+- `it`
 
 Live Coding
 **PiggyBank**
@@ -81,71 +92,59 @@ Live Coding
 - Destroy/take the money out
 - Shaking it to check there is money inside
 
--> Story: As a user. So I can save up money. I want to store money in a piggy bank.
+- User Story: 
+```
+As a user. 
+So I can save up money. 
+I want to store money in a piggy bank.
+```
+- PiggyBank object/ store method
 
--> PiggyBank object/ store method
-
-[Feature Test]
->piggy_bank = PiggyBank.new
-
->piggy_bank.store(1)
-
->=> "clink"
-
-
->piggy_bank = PiggyBank.new
-
->piggy_bank.store(1)
-
->piggy_bank.destory
-
->=> 1
-
-[SPEC]
->describe PiggyBank do
-
-> descibe "#store" do
-
-> it "should return 'clink' when I store 1 pound" do
-
->  piggy_bank = PiggyBank.new
-
->  expect(piggy_bank.store(1)).to eq ('clink')
-
->  end
-
-> end
-
-decribe "#destory" do
-it "should return 1 when I ha stored 1 pound" do
-#arrange
+**Feature Test**
+```
 piggy_bank = PiggyBank.new
 piggy_bank.store(1)
-#act + assert
-expect(piggy_bank.detrory).to eq (1)
+=> "clink"
+```
+```
+piggy_bank = PiggyBank.new
+piggy_bank.store(1)
+piggy_bank.destory
+=> 1
+```
+
+**Spec File**
+```
+describe PiggyBank do
+  descibe "#store" do
+    it "should return 'clink' when I store 1 pound" do
+    piggy_bank = PiggyBank.new
+    expect(piggy_bank.store(1)).to eq ('clink')
+  end
 end
+```
+```
+decribe "#destory" do
+  it "should return 1 when I ha stored 1 pound" do
+    #arrange
+    piggy_bank = PiggyBank.new
+    piggy_bank.store(1)
+    #act + assert
+    expect(piggy_bank.detrory).to eq (1)
+  end
 end
-
->end
-
+```
 
 
-[RB]
->class PiggyBank
+**Rb File**
+```
+class PiggyBank
+  def store(amount)
+    "clink" if amount > 0
+  end
+  
+  def detory
+  end
+end
+```
 
-> def store(amount)
-
->  "clink" if amount > 0
-
-> end
-
->def detory
-
->end
-
->end
-
-Things we need to use in spec file
-- expect -- matchers (.to eq/.to raise_error/.to output)
-- describe
-- it
