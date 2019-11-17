@@ -37,18 +37,17 @@ step 12 resources
 
 
 ## Weekly Challenge
-**Boris-Bikes**:
+- **Boris-Bikes**:
 Created the Domain model based on the user stories. Operating feature tests and unit tests to code step by step. Completed as part of a pair. Repo [here](https://github.com/jj49411/boris_bikes)
 
-**Birthdays**:
-Repo [here](https://github.com/jj49411/birthdays)
+- **Birthdays**:
+A programme to store friends' birthdays and check whose birthday is it today. Using TDD process and OO principles. Repo [here](https://github.com/jj49411/birthdays)
 
 ## Weekend Challenge
-**Airport**:
+- **Airport**:
 Wrote a programme from a request of a client to control the flow of planes at an airport, considering the weather change and default capacity. Using TDD approach to test drive a set of classes/modules. Repo [here](https://github.com/jj49411/airport_challenge)
 
 
-add readme of boris
 update post,blog
 go through some gaps
 
