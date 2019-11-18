@@ -52,7 +52,7 @@ second time you call it: return the double
 Repo [here]()
 
 - **middle-characters**:
-Repo [here]()
+Repo [here](https://github.com/jj49411/middle_characters)
 
 ## Weekend Challenge
 - **t**:
@@ -61,28 +61,20 @@ Repo [here]()
 
 ## Workshops
 
-### Kick off 
+### Peer Code Review
 
-1. Why do we review code?
-- Improve the code 
-- Learn solving problems
+|Code reviewing | Details|
+|-------------- | ------|
+|Why do we review code? | - Improve the code<br>- Learn solving problems|
+|Why peer revirw? | - Communication skills<br>- Pair programming<br>- Learn from each other|
+|Why adding README? |- Clear instruction<br>- How to iteract with the repo
 
-2. Why peer revirw?
-- Communication skills
-- Pair programming
-- Learn from each other
-
-3. README
-- Clear instruction
-- How to iteract with the repo
-
- 
 ### Process Workshop
 
 1. We paired up and each of us took turns to spent 30 mins on writing a programme using TDD process. One of us recorded our screen and drive-test the excercise, at the same time, the other person observed it and gave feedback aftterwards. 
 
 2. Purpose: Impove the approach to programming. To see where you get stuck, how you debug and how good is your TDD approach to TDD process.
 
-3. I practiced on a small programme [middle-characters](middle-characters) following the cycle RED - GREEN - REFACTORING. I found the regactoring part a bit tough as I kept putting the easiest codes to pass the test (make it GREEN) without refactoring it efficiently. 
+3. I practiced on a small programme [middle-characters](https://github.com/jj49411/middle_characters) following the cycle RED - GREEN - REFACTORING. I found the regactoring part a bit tough as I kept putting the easiest codes to pass the test (make it GREEN) without refactoring it efficiently. 
 
 ### Review Workshop
