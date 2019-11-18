@@ -15,9 +15,10 @@
 
 ## Daily Goals
 ### Day 1
-- GOAL: Review another persons' weekend challenge/Improve my knowledge on let-double method/Read through Code review rubric
-- REFLECTION: 
-> Still not quite sure how to review anthers' codes
+- GOAL: Review other's weekend challenge/Improve my knowledge on let-double method/(Read through Code review rubric)
+- REFLECTION: Reviewed other's code following the rubuic, understood the basics of Gemfile/gems/bundle/rvm and found out "refactoring" is my main problem when using TDD process. 
+> Got a sense of how to review others' codes but still neeed more practice! 
+> During the pairing we swaptted the driver-navigator role frequently and answered all the "interview questions". 
 
 #Day 1 :
 -Review on the weekend challenge
@@ -28,7 +29,6 @@ As an object
 first time you call it: run the call, create double
 second time you call it: return the double
 
-*add process workshop reflection 
 *finish the post for week1 / notes
 *let-double
 *find out the solution for #middle_charcs
@@ -52,7 +52,7 @@ second time you call it: return the double
 Repo [here]()
 
 - **middle-characters**:
-Repo [here](https://github.com/jj49411/middle_characters)
+The programme returns the middle character of a word. Using TDD approach and screen-recording to examine my programming process. Built the code in 30 mins following the cycle RED - GREEN - REFACTORING. Needed to improve in refactoring. Repo [here](https://github.com/jj49411/middle_characters)
 
 ## Weekend Challenge
 - **t**:
@@ -68,6 +68,7 @@ Repo [here](https://github.com/jj49411/middle_characters)
 |Why do we review code? | - Improve the code<br>- Learn solving problems|
 |Why peer revirw? | - Communication skills<br>- Pair programming<br>- Learn from each other|
 |Why adding README? |- Clear instruction<br>- How to iteract with the repo
+
 
 ### Process Workshop
 
