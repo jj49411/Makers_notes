@@ -24,16 +24,14 @@
 > Figured out the gaps during the pairing
 
 ### Day 3
-- GOAL: Look at basic OO principles like encapsulation, SRP & Debugging and some Ruby methods
-chars map
-matchers of expect in spec file
-attr_asscessor/reader/writer
-step 12 resources
-- REFLECTION: Got better understanding on TDD process through the workshop. l
+- GOAL: Look at basic OO principles like encapsulation, SRP & Debugging and some Ruby methods `map` `initialize`
+- REFLECTION: Got better understanding on TDD process and OO principles through the workshop
+> In the afternoon pairing, we went backwards a few steps to make sure we match our understanding from the workshop with the current project. It was great practice as we explained to each other the purpose of each steps. 
 
 ### Day 4
-- GOAL: Practice TDD throght Birthdays project. Filling all the knowledge gaps
-- REFLECTION:
+- GOAL: Practice TDD throght Birthdays project. Understand `attr_asscessor` `DEFAULT_VALUE` and fill in knowledge gaps
+- REFLECTION: Better degugging skills (find out solutions from error messages). Built up my solo project Birthdays.
+> I learned how to improve README and spec-rb files structure from my pair. Looked into private methods
 
 
 ## Weekly Challenge
