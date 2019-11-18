@@ -48,9 +48,6 @@ A programme to store friends' birthdays and check whose birthday is it today. Us
 Wrote a programme from a request of a client to control the flow of planes at an airport, considering the weather change and default capacity. Using TDD approach to test drive a set of classes/modules. Repo [here](https://github.com/jj49411/airport_challenge)
 
 
-update post,blog
-go through some gaps
-
 ## Workshops
 
 ### Debugging Workshop
@@ -75,9 +72,9 @@ go through some gaps
 ### TDD Workshop
 
 1. TDD
-- Process of writing test to guide the codes that meets user needs
+- Process of writing a test to guide the codes that meets user needs
 - Reason of using it is to help to break down the problem, build the project step by step
-- Can serve as docs/ Acts as safty net
+- Can serve as docs/ Acts as safety net
 
 2. Steps of building up a project
 - Define user needs
