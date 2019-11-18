@@ -15,9 +15,9 @@
 
 ## Daily Goals
 ### Day 1
-- GOAL: 
+- GOAL: Review another persons' weekend challenge/Improve my knowledge on let-double method/Read through Code review rubric
 - REFLECTION: 
-> 
+> Still not quite sure how to review anthers' codes
 
 #Day 1 :
 -Review on the weekend challenge
@@ -56,28 +56,24 @@ Repo [here]()
 
 ## Workshops
 
-### Workshop
+### Kick off Workshop
 
-1. 
- -	
- -	
- 
-### Workshop
-
-
-
-
-Why do we review code?
+1. Why do we review code?
 - Improve the code 
 - Learn solve problems
 
-Why peer revirw?
+2. Why peer revirw?
 - Communication skills
 - Pair programming
 - Learn from each other
 
-
-README
+3. README
 - Clear instruction
 - How to iteract with the repo
-- If
+
+
+ 
+### Process Workshop
+
+
+### Review Workshop
