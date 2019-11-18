@@ -15,21 +15,13 @@
 
 ## Daily Goals
 ### Day 1
-- GOAL: Review other's weekend challenge/Improve my knowledge on let-double method/(Read through Code review rubric)
-- REFLECTION: Reviewed other's code following the rubuic, understood the basics of Gemfile/gems/bundle/rvm and found out "refactoring" is my main problem when using TDD process. 
+- GOAL: Review other's weekend challenge and improve my knowledge on `let-double` method #(Read through Code review rubric)
+- REFLECTION: Reviewed other's code following the rubuic. Understood the basics of Gemfile/gems/bundle/rvm and found out "refactoring" is my main problem when using TDD process. 
 > Got a sense of how to review others' codes but still neeed more practice! 
-> During the pairing we swaptted the driver-navigator role frequently and answered all the "interview questions". 
+> During the pairing we switched the driver-navigator role frequently and answered all the "interview questions". 
 
 #Day 1 :
--Review on the weekend challenge
-Add README
-let-double
-double:
-As an object
-first time you call it: run the call, create double
-second time you call it: return the double
-
-*finish the post for week1 / notes
+*finish the post for week1 
 *let-double
 *find out the solution for #middle_charcs
 
@@ -51,7 +43,7 @@ second time you call it: return the double
 - **A**:
 Repo [here]()
 
-- **middle-characters**:
+- **Middle-Characters**:
 The programme returns the middle character of a word. Using TDD approach and screen-recording to examine my programming process. Built the code in 30 mins following the cycle RED - GREEN - REFACTORING. Needed to improve in refactoring. Repo [here](https://github.com/jj49411/middle_characters)
 
 ## Weekend Challenge
@@ -76,6 +68,6 @@ The programme returns the middle character of a word. Using TDD approach and scr
 
 2. Purpose: Impove the approach to programming. To see where you get stuck, how you debug and how good is your TDD approach to TDD process.
 
-3. I practiced on a small programme [middle-characters](https://github.com/jj49411/middle_characters) following the cycle RED - GREEN - REFACTORING. I found the regactoring part a bit tough as I kept putting the easiest codes to pass the test (make it GREEN) without refactoring it efficiently. 
+3. I practiced on a small programme [Middle-Characters](https://github.com/jj49411/middle_characters) following the cycle RED - GREEN - REFACTORING. I found the regactoring part a bit tough as I kept putting the easiest codes to pass the test (make it GREEN) without refactoring it efficiently. 
 
 ### Review Workshop
