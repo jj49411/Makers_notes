@@ -28,6 +28,11 @@ As an object
 first time you call it: run the call, create double
 second time you call it: return the double
 
+*add process workshop reflection 
+*finish the post for week1 / notes
+*let-double
+*find out the solution for #middle_charcs
+
 ### Day 2
 - GOAL: 
 - REFLECTION: 
@@ -46,7 +51,7 @@ second time you call it: return the double
 - **A**:
 Repo [here]()
 
-- **B**:
+- **middle-characters**:
 Repo [here]()
 
 ## Weekend Challenge
@@ -56,11 +61,11 @@ Repo [here]()
 
 ## Workshops
 
-### Kick off Workshop
+### Kick off 
 
 1. Why do we review code?
 - Improve the code 
-- Learn solve problems
+- Learn solving problems
 
 2. Why peer revirw?
 - Communication skills
@@ -71,9 +76,13 @@ Repo [here]()
 - Clear instruction
 - How to iteract with the repo
 
-
  
 ### Process Workshop
 
+1. We paired up and each of us took turns to spent 30 mins on writing a programme using TDD process. One of us recorded our screen and drive-test the excercise, at the same time, the other person observed it and gave feedback aftterwards. 
+
+2. Purpose: Impove the approach to programming. To see where you get stuck, how you debug and how good is your TDD approach to TDD process.
+
+3. I practiced on a small programme [middle-characters](middle-characters) following the cycle RED - GREEN - REFACTORING. I found the regactoring part a bit tough as I kept putting the easiest codes to pass the test (make it GREEN) without refactoring it efficiently. 
 
 ### Review Workshop
