@@ -20,14 +20,12 @@
 > Got a sense of how to review others' codes but still neeed more practice! 
 > During the pairing we switched the driver-navigator role frequently and answered all the "interview questions". 
 
-#Day 1 :
-*let-double
-*find out the solution for #middle_charcs
-
 ### Day 2
-- GOAL: Ruby class constants
-- REFLECTION: Knowing the use of `::` and constants. Learning the feedback skills though the workshop which I found helpful.
-> 
+- GOAL: Underdstand Ruby class constants
+- REFLECTION: Knowing the use of `constants` `!!` and `::` `let double` `before` in RSpec . Learning the feedback skills though the workshop which I found helpful. 
+> Today's painging was a seccess! I felt that my techinical/debugging/refactoring skills are better than yesterday. I was surprised how many knowledge gaps were actually covered in the exercise.
+> We shared ideas and communicated well as my pair is good at explaining things and using IRB as examples!
+
 
 ### Day 3
 - GOAL: 
@@ -44,7 +42,7 @@ Repo [here]()
 
 - **Middle-Characters**:
 The programme returns the middle character of a word. Using TDD approach and screen-recording to examine my programming process. Built the code in 30 mins following the cycle RED - GREEN - REFACTORING. Needed to improve in refactoring. Repo [here](https://github.com/jj49411/middle_characters)
-
+*find out the solution for #middle_charcs
 ## Weekend Challenge
 - **t**:
  Repo [here]()
@@ -72,7 +70,7 @@ The programme returns the middle character of a word. Using TDD approach and scr
 ### Feedback Workshop
 
 1. Why is Feedback so difficult?
-Love&Acceptance vs Learning&Growth
+- Love&Acceptance vs Learning&Growth
 
 2. How can we make feedback easier?
 - Shift your perspective. Not positive nor nagetive, see it as nutural "Feedback is kind!"
