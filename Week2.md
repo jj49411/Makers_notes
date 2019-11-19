@@ -21,13 +21,12 @@
 > During the pairing we switched the driver-navigator role frequently and answered all the "interview questions". 
 
 #Day 1 :
-*finish the post for week1 
 *let-double
 *find out the solution for #middle_charcs
 
 ### Day 2
-- GOAL: 
-- REFLECTION: 
+- GOAL: Ruby class constants
+- REFLECTION: Knowing the use of `::` and constants. Learning the feedback skills though the workshop which I found helpful.
 > 
 
 ### Day 3
@@ -40,7 +39,7 @@
 
 
 ## Weekly Challenge
-- **A**:
+- **Oystercard**:
 Repo [here]()
 
 - **Middle-Characters**:
@@ -70,4 +69,21 @@ The programme returns the middle character of a word. Using TDD approach and scr
 
 3. I practiced on a small programme [Middle-Characters](https://github.com/jj49411/middle_characters) following the cycle RED - GREEN - REFACTORING. I found the regactoring part a bit tough as I kept putting the easiest codes to pass the test (make it GREEN) without refactoring it efficiently. 
 
-### Review Workshop
+### Feedback Workshop
+
+1. Why is Feedback so difficult?
+Love&Acceptance vs Learning&Growth
+
+2. How can we make feedback easier?
+- Shift your perspective. Not positive nor nagetive, see it as nutural "Feedback is kind!"
+- Empowered receiver. #freetherapy
+- Know thyself. 
+**Feedback triggers**: Truth triggers/Relationship triggers/Idantity triggers
+- Understand feedback
+- Use a framework
+
+3. Expression
+- When I see/hear...
+- I feel...
+- Beacause I need...
+- Would you be willing...
