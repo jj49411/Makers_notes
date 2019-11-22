@@ -28,12 +28,25 @@
 
 
 ### Day 3
-- GOAL: 
-- REFLECTION: 
+- GOAL: Practise turing user stories to Domain model, and turn Domain model to the code
+- REFLECTION: A bit struggled when turning the idea (Domain model) to the code, practiced on the programme "flip-coins". Worked on the practical "Secretdiary" to build the test of the code
+> 
+Secretdiary
+Domain model: flip_coins/notebook
 
 ### Day 4
-- GOAL: 
-- REFLECTION:
+- GOAL: Go through some practicals to understand the relationships between classes/the logic of RSPec
+- REFLECTION: Through the practical practice "SecretDiary" I used `double` `expect to receive`
+"Building Rspec" through the excerices I built up the code to see what 
+
+
+finish practical 1- SecretDiary, understand `double` `expect to receive`
+finish practical 2- Building Rspec
+
+### Day 5
+- GOAL: (talk to Sophie about flip-coins)
+- REFLECTION: 
+>
 
 
 ## Weekly Challenge
@@ -43,6 +56,13 @@ Repo [here]()
 - **Middle-Characters**:
 The programme returns the middle character of a word. Using TDD approach and screen-recording to examine my programming process. Built the code in 30 mins following the cycle RED - GREEN - REFACTORING. Needed to improve in refactoring. Repo [here](https://github.com/jj49411/middle_characters)
 *find out the solution for #middle_charcs
+
+- **Secret-Diary**:
+One of our practicals to test the relationships between classes. By creating a test after the code has been written.
+What is it about: .....
+Repo [here](https://github.com/jj49411/secret_diary)
+(testing_relationships_between_classes)
+
 ## Weekend Challenge
 - **t**:
  Repo [here]()
@@ -85,3 +105,15 @@ The programme returns the middle character of a word. Using TDD approach and scr
 - I feel...
 - Beacause I need...
 - Would you be willing...
+
+### Domain Modelling
+
+Useful tool: draw.io
+
+
+EXTRA
+https://github.com/makersacademy/skills-workshops/blob/master/practicals/adventures/learning_by_building_rspec.md
+Practical---Learning by building rspec
+includes 4 excercises (with pic)
+-> to understand the logic of rspec, what does a test actually expect
+-> not using rspec to test, instead, creating a rspec
