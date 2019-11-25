@@ -47,11 +47,14 @@ finish practical 2- Building Rspec
 - GOAL: (talk to Sophie about flip-coins)
 - REFLECTION: 
 >
-
+Look at 5 solids, make examples on each of them
+Dependency Injection
+Polymorphism
+Forwarding
 
 ## Weekly Challenge
 - **Oystercard**:
-Repo [here]()
+Repo [here](https://github.com/jj49411/oystercard)
 
 - **Middle-Characters**:
 The programme returns the middle character of a word. Using TDD approach and screen-recording to examine my programming process. Built the code in 30 mins following the cycle RED - GREEN - REFACTORING. Needed to improve in refactoring. Repo [here](https://github.com/jj49411/middle_characters)
@@ -63,9 +66,13 @@ What is it about: .....
 Repo [here](https://github.com/jj49411/secret_diary)
 (testing_relationships_between_classes)
 
+- **Flip-Coins**:
+Repo [here]()
+
+
 ## Weekend Challenge
-- **t**:
- Repo [here]()
+- **Takeaway**:
+ Repo [here](https://github.com/jj49411/takeaway-challenge)
 
 
 ## Workshops
