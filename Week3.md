@@ -14,7 +14,7 @@
 
 ## Daily Goals
 ### Day 1
-- GOAL: Learn web basics: request/response, HTTP, HTML, CSS
+- GOAL: Learn web basics- request/response, HTTP, HTML, CSS. Review 
 - REFLECTION: 
 > We went through steps of basic HTTP and built a Sinatra application as a server(?)
 
@@ -23,7 +23,7 @@ basket.include
 => subject.select_dish eq {...=>...}
 
 ### Day 2
-- GOAL: 
+- GOAL: Work on practical-1, drafting the blog post
 - REFLECTION: 
 > 
 
@@ -50,7 +50,7 @@ Repo [here]()
 
 ## Workshops
 
-### Workshop
+### Process Modelling Workshop
 
 1. 
  -	
