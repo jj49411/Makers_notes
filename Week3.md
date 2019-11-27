@@ -16,7 +16,7 @@
 ### Day 1
 - GOAL: Learn web basics- request/response, HTTP, HTML, CSS. Review others' code
 - REFLECTION: Grabbed the ideas of request/response which was fun! 
-> We went through steps of basic HTTP and built a Sinatra application as a server
+> We went through steps of basic HTTP and built a Sinatra application as a server. It was a great pairing experience, reading the instuction to each other.
 ```
 Feedback on my weekend challenge: 
 1) "testing the behaviour rather than the state"
@@ -26,13 +26,13 @@ Feedback on my weekend challenge:
 ```
 
 ### Day 2
-- GOAL: Work on practical-1, drafting the blog post
+- GOAL: Work on practical-1, drafting the blog post, know more about HTTP, request/response
 - REFLECTION: Had better understanding on the HTTP request/response and how to apply the HTTP cycle
-> 
+> We set up the test infrastructure, using Capybara(the extension of Rspec) to test our first feature for the route'/names'. Noticing the minor difference in symbols can make a big difference. Nice teamwork of building the server/test model!<br>During the process modelling workshop, we use "Ping-pun diagram" to sum up the web routes. It was great fun and I had a better understanding on the relationship between client/server. 
 
 ### Day 3
 - GOAL: 
-- REFLECTION: 
+- REFLECTION: Learned some tips for improving my empathetic skills in "Empathy workshop".
 
 ### Day 4
 - GOAL: 
