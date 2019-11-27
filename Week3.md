@@ -31,11 +31,12 @@ Feedback on my weekend challenge:
 > We set up the test infrastructure, using Capybara(the extension of Rspec) to test our first feature for the route'/names'. Noticing the minor difference in symbols can make a big difference. Nice teamwork of building the server/test model!<br>During the process modelling workshop, we use "Ping-pun diagram" to sum up the web routes. It was great fun and I had a better understanding on the relationship between client/server. 
 
 ### Day 3
-- GOAL: 
-- REFLECTION: Learned some tips for improving my empathetic skills in "Empathy workshop".
+- GOAL: Improve my knowledge of Servers through the practical
+- REFLECTION: Learned some tips for improving my empathetic skills in "Empathy workshop". Practised how to use the network IP address to connect with other server, and as a server, created a new class and make a notes app to control over the network.
+> During the pairing, we went throgh some Sinatra/Capybara settings to have a better understanding, looking into get/post requests.
 
 ### Day 4
-- GOAL: 
+- GOAL:  MVC pattern
 - REFLECTION:
 
 
