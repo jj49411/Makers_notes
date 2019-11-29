@@ -36,8 +36,14 @@ Feedback on my weekend challenge:
 > During the pairing, we went throgh some Sinatra/Capybara settings to have a better understanding, looking into get/post requests.
 
 ### Day 4
-- GOAL:  MVC pattern
+- GOAL: MVC pattern, debugging process for web application
+- REFLECTION: Successfully debugged a web page in the workshop, had better understanding on the debugging process. Had a look at MVC pattern, still not quite sure how to apply.
+> We used some application logic stored in a model layer(./lib) to seperate the concerns. Nice teamwork! $global variable can crash the whole test!
+
+### Day 5
+- GOAL: Testing me current understanding of the web building concepts 
 - REFLECTION:
+>
 
 
 ## Weekly Challenge
@@ -63,5 +69,8 @@ Repo [here]()
  
  2. 
  
-### Workshop
+### Debugging Workshop
+
+1. Tightening the loop (read error messages)
+2. Get visibility (using p)
 
