@@ -47,15 +47,15 @@ Feedback on my weekend challenge:
 
 
 ## Weekly Challenge
-- **A**:
-Repo [here]()
+- **Battle Web App**:
+Repo [here](https://github.com/jj49411/battle-thu)
 
-- **B**:
-Repo [here]()
+- **Birthday Application**:
+Repo [here](https://github.com/jj49411/birthday_app)
 
 ## Weekend Challenge
-- **t**:
- Repo [here]()
+- **Rock, Paper, Scissors Application**:
+ Repo [here](https://github.com/jj49411/rps-challenge)
 
 
 ## Workshops
