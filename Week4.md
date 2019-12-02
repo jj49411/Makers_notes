@@ -1,4 +1,4 @@
-# Week 3
+# Week 4
 
 [Weekly Goals](#weekly-goals) | [Daily Goals](#daily-goals) | [Weekly Challenge](#weekly-challenge) | [Weekend Challenge](#weekend-challenge) | [Workshops](#workshops)
 
@@ -6,24 +6,20 @@
 
 ## Weekly Goals
 
-1. Build a simple web app
-2. Follow an effective debugging process for web applications
-3. Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-4. Explain the MVC pattern
+1. Build a simple web app with a database
+2. Follow an effective debugging process for database applications
+3. Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
  
 
 ## Daily Goals
 ### Day 1
-- GOAL: Learn web basics- request/response, HTTP, HTML, CSS. Review 
+- GOAL: Understand the basics of how databasese work
 - REFLECTION: 
-> We went through steps of basic HTTP and built a Sinatra application as a server(?)
+> 
 
-"testing behaviour rather than state"
-basket.include
-=> subject.select_dish eq {...=>...}
 
 ### Day 2
-- GOAL: Work on practical-1, drafting the blog post
+- GOAL: 
 - REFLECTION: 
 > 
 
