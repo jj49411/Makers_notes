@@ -13,13 +13,16 @@
 
 ## Daily Goals
 ### Day 1
-- GOAL: Understand the basics of how databasese work
-- REFLECTION: 
+- GOAL: Review other's weekend challenge. ** Check out the difference between class method and instance method 
+- REFLECTION: Made a diagram for my rsp-app. Refactored my code and added more features
 > 
-
+```
+- use PG to let us write SQL in Ruby code
+- psql interactive shall- to deal with data, matipulate the table...
+```
 
 ### Day 2
-- GOAL: 
+- GOAL: Understand the basics of how databasese work.
 - REFLECTION: 
 > 
 
