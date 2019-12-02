@@ -41,17 +41,18 @@ Feedback on my weekend challenge:
 > We used some application logic stored in a model layer(./lib) to seperate the concerns. Nice teamwork! $global variable can crash the whole test!
 
 ### Day 5
-- GOAL: Testing me current understanding of the web building concepts 
-- REFLECTION:
->
+- GOAL: Testing the current understanding of the web building concepts by building the Birthday-app
+- REFLECTION: Setting up a Sinatra server, testing the infrastructure and test-drive the app using Capybara. Exploring CSS/HTML
+> Building an app independently for the first time. Haven't finished yet but good practice and applying CSS design.
 
 
 ## Weekly Challenge
-- **Battle Web App**:
+- **Battle-Game**:
 Repo [here](https://github.com/jj49411/battle-thu)
 
-- **Birthday Application**:
-Repo [here](https://github.com/jj49411/birthday_app)
+- **Birthday-Application**:
+Built a web app that asks the user for a name and birthday. The app will either wish the user happy birthday or tell them how long they'll have to wait until their next birthday. Using Capybara Test-drive process to build a simple website. 
+Repo(Unfinished) [here](https://github.com/jj49411/birthday_app)
 
 ## Weekend Challenge
 - **Rock, Paper, Scissors Application**:
@@ -65,9 +66,7 @@ Repo [here](https://github.com/jj49411/birthday_app)
 1. Essential in README File
  -	How does it do?
  -	How the install it/run it? 
- - How to teet it?
- 
- 2. 
+ - How to deal with it?
  
 ### Debugging Workshop
 
