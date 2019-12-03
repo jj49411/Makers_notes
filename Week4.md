@@ -9,22 +9,24 @@
 1. Build a simple web app with a database
 2. Follow an effective debugging process for database applications
 3. Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
- 
+
+** Use SQL in a controller to read a bookmark record from a database.
 
 ## Daily Goals
 ### Day 1
 - GOAL: Review other's weekend challenge. ** Check out the difference between class method and instance method 
 - REFLECTION: Made a diagram for my rsp-app. Refactored my code and added more features
-> 
+> I was flying solo for the afternoon challenge, so I had some time to look at the settings for database and psql. Also Built the feature, including controller, model, and database code
 ```
 - use PG to let us write SQL in Ruby code
 - psql interactive shall- to deal with data, matipulate the table...
 ```
 
 ### Day 2
-- GOAL: Understand the basics of how databasese work.
-- REFLECTION: 
+- GOAL: Understand the basics of how databasese work. Work on practicals
+- REFLECTION: Have done the SQLZoo practical(SELECT basics/SELECT from world/)
 > 
+evening: finish week3.md/ my post!!
 
 ### Day 3
 - GOAL: 
