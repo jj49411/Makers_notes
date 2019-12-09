@@ -1,4 +1,4 @@
-# Week 3
+# Week 5
 
 [Weekly Goals](#weekly-goals) | [Daily Goals](#daily-goals) | [Weekly Challenge](#weekly-challenge) | [Weekend Challenge](#weekend-challenge) | [Workshops](#workshops)
 
@@ -6,24 +6,23 @@
 
 ## Weekly Goals
 
-1. Build a simple web app
-2. Follow an effective debugging process for web applications
-3. Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-4. Explain the MVC pattern
+1. Test drive a simple front-end web app with Javascript
+2. Follow an effective process for learning a new language
  
 
 ## Daily Goals
 ### Day 1
-- GOAL: Learn web basics- request/response, HTTP, HTML, CSS. Review 
-- REFLECTION: 
-> We went through steps of basic HTTP and built a Sinatra application as a server(?)
-
-"testing behaviour rather than state"
-basket.include
-=> subject.select_dish eq {...=>...}
+- GOAL: Review other's code and get the basics of Javascript
+- REFLECTION: Great to see how others organised their web app and files. Learned some basic syntax and ideas of JS, would need more practice! 
+> Learnign a new language can be confusing, but it was fun!
+```
+Peer code review:
+- "SELECT content, date FROM peeps ORDER BY date DESC;" to sort out the order of the peeps
+- Adding a test database to test the functionality
+```
 
 ### Day 2
-- GOAL: Work on practical-1, drafting the blog post
+- GOAL: 
 - REFLECTION: 
 > 
 
@@ -32,6 +31,10 @@ basket.include
 - REFLECTION: 
 
 ### Day 4
+- GOAL: 
+- REFLECTION:
+
+### Day 5
 - GOAL: 
 - REFLECTION:
 
