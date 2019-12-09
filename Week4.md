@@ -24,17 +24,22 @@
 
 ### Day 2
 - GOAL: Understand the basics of how databasese work. Work on practicals
-- REFLECTION: Have done the SQLZoo practical(SELECT basics/SELECT from world/)
-> 
-evening: finish week3.md/ my post!!
+- REFLECTION: Have done the SQLZoo practical(SELECT basics/SELECT from world/). Had a better understanding on how to use SQL in my ruby code
 
 ### Day 3
-- GOAL: 
-- REFLECTION: 
+- GOAL: Create databases/tables, using psql interface to manipulate the data
+- REFLECTION: Setting up for testing environment and TablePlus
+> Nice teamwork exploring ENV, truncate/drop table
 
+And
 ### Day 4
-- GOAL: 
+- GOAL: Work on practicals, try to fill the gaps of the weekly challenge
 - REFLECTION:
+Dav
+
+### Day 5
+- GOAL:
+-REFLECTION:
 
 
 ## Weekly Challenge
@@ -51,7 +56,7 @@ Repo [here]()
 
 ## Workshops
 
-### Process Modelling Workshop
+### Database Workshop
 
 1. 
  -	
