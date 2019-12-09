@@ -43,20 +43,16 @@ evening: finish week3.md/ my post!!
 -REFLECTION: understood the idea of wrapping the data in Ruby objects and did some practices
 
 
-
 ## Weekly Challenge
-- **Bookmark-Manager**:
-Repo [here](https://github.com/jj49411/bookmark_manager_thu)
+- **Bookmark-Manager**: A web application with a database that enables the user to view and store bookmarks. Following an effective debugging process to test drive the controller using feature tests/ the model using unit tests. Installed `pg` gem for inserting `SQL` code in Ruby. Repo [here](https://github.com/jj49411/bookmark_manager_thu)
 
 
 ## Weekend Challenge
-- **Chitter**:
- Repo [here](https://github.com/jj49411/chitter-challenge)
+- **Chitter**: wrote a Twitter clone that allows the user to sign up and post messages to a public stream. First individual web app with a database. Would add more features to sign in/ interact with other users' posts in the future.
+Repo [here](https://github.com/jj49411/chitter-challenge)
 
 
 ## Weekly reflection
 
-```
 This week we moved on to building up a web app that uses a database. We were introduced to PostgreSQL, SQL, PG and psql and learned how to connect to a database in our Ruby code. It is basically another extra concept adding on building a web page. Last week we used MVC cycle to create web apps, whereas in this week we are able to store the user input in the database and manipulate it by calling commands.
-```
 
