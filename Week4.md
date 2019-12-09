@@ -25,42 +25,38 @@
 ### Day 2
 - GOAL: Understand the basics of how databasese work. Work on practicals
 - REFLECTION: Have done the SQLZoo practical(SELECT basics/SELECT from world/). Had a better understanding on how to use SQL in my ruby code
+> Learned how to use SQL at psql interface, setting up 'pg' in Ruby file to connect to SQK database
+evening: finish week3.md/ my post!!
 
 ### Day 3
-- GOAL: Create databases/tables, using psql interface to manipulate the data
+- GOAL: Create databases/tables, using psql interface to manipulate the data. Domain modelling using CRC cards(class/ responsibilities/table)
 - REFLECTION: Setting up for testing environment and TablePlus
-> Nice teamwork exploring ENV, truncate/drop table
+> Nice teamwork exploring ENV, truncate/drop table. During the workshop, learned to generat user stories from requirements and implement a one-to-many relationship
 
-And
 ### Day 4
-- GOAL: Work on practicals, try to fill the gaps of the weekly challenge
-- REFLECTION:
-Dav
+- GOAL: Keep on SQL practice(SLECT from name) and draw out the diagrams based on user stories. Work on practicals, try to fill the gaps of the weekly challenge
+- REFLECTION: Knew how to attach a database to a web application
+> Followed the debugging process to add the function on the model/ call the method on the controller, using SQL to interact with databases and store the user's input in the data
 
 ### Day 5
-- GOAL:
--REFLECTION:
+- GOAL: Using CRC cards and diagrams to draw out the project, looking at the MVC relationships
+-REFLECTION: understood the idea of wrapping the data in Ruby objects and did some practices
+
 
 
 ## Weekly Challenge
-- **A**:
-Repo [here]()
+- **Bookmark-Manager**:
+Repo [here](https://github.com/jj49411/bookmark_manager_thu)
 
-- **B**:
-Repo [here]()
 
 ## Weekend Challenge
-- **t**:
- Repo [here]()
+- **Chitter**:
+ Repo [here](https://github.com/jj49411/chitter-challenge)
 
 
-## Workshops
+## Weekly reflection
 
-### Database Workshop
-
-1. 
- -	
- -	
- 
-### Workshop
+```
+This week we moved on to building up a web app that uses a database. We were introduced to PostgreSQL, SQL, PG and psql and learned how to connect to a database in our Ruby code. It is basically another extra concept adding on building a web page. Last week we used MVC cycle to create web apps, whereas in this week we are able to store the user input in the database and manipulate it by calling commands.
+```
 
