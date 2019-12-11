@@ -22,8 +22,8 @@ Peer code review:
 ```
 
 ### Day 2
-- GOAL: 
-- REFLECTION: 
+- GOAL: Practice on Javascript and Jasmine(testing framework) get used to the syntax `function` `{}` `jasmineSpyObj`
+- REFLECTION: Rewrited the Fizzbuzz challenge in the morning
 > 
 
 ### Day 3
@@ -55,7 +55,7 @@ Repo [here]()
 
 ### Process Modelling Workshop
 
-1. 
+1. Ecma SCRIPT
  -	
  -	
  
