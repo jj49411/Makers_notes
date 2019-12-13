@@ -27,15 +27,15 @@ Peer code review:
 > 
 
 ### Day 3
-- GOAL: 
+- GOAL: business logic using Javascript
 - REFLECTION: 
 
 ### Day 4
-- GOAL: 
+- GOAL: interface. JQuery
 - REFLECTION:
 
 ### Day 5
-- GOAL: 
+- GOAL: API
 - REFLECTION:
 
 
