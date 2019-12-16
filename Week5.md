@@ -23,32 +23,33 @@ Peer code review:
 
 ### Day 2
 - GOAL: Practice on Javascript and Jasmine(testing framework) get used to the syntax `function` `{}` `jasmineSpyObj`
-- REFLECTION: Rewrited the Fizzbuzz challenge in the morning
-> 
+- REFLECTION: Rewrited the Fizzbuzz challenge in the morning. Tried to rewrite Airport challenge in Javascript and started on the weekly challenge Thermostat
+> It was great practice to rewrite the projects we've done before in Ruby and got my head around with Javascript syntax. Nice pairing with my partner, we swapped the driver/navigator roles regularly
+
 
 ### Day 3
 - GOAL: business logic using Javascript
 - REFLECTION: 
+Jonathin
 
 ### Day 4
 - GOAL: interface. JQuery
 - REFLECTION:
+Jona/Harrison
 
 ### Day 5
-- GOAL: API
+- GOAL: API. CSS
 - REFLECTION:
-
+Sam
 
 ## Weekly Challenge
-- **A**:
-Repo [here]()
+- **Thermostat**:
+Repo [here](https://github.com/jj49411/thermostat)
 
-- **B**:
-Repo [here]()
 
 ## Weekend Challenge
-- **t**:
- Repo [here]()
+- **Bowling-Scorecard**:
+ Repo [here](https://github.com/jj49411/bowling-challenge)
 
 
 ## Workshops
