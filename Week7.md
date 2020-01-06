@@ -6,10 +6,9 @@
 
 ## Weekly Goals
 
-1. Build a simple web app
-2. Follow an effective debugging process for web applications
-3. Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
-4. Explain the MVC pattern
+1. Build a front-end app in Javascript
+2. Work competently in Javascript *
+3. Reason about asynchronous behaviour in Javascript
  
 
 ## Daily Goals
