@@ -14,12 +14,15 @@
 ## Daily Goals
 ### Day 1
 - GOAL: Think about my process of approaching a tech test
+stubbing time
+spies
+class interaction
 - REFLECTION: 
 > 
 
 
 ### Day 2
-- GOAL: 
+- GOAL: Karma, feature tests
 - REFLECTION: 
 > 
 
@@ -89,3 +92,83 @@ Repo [here]()
 Send a 30 min process video to Sofie
 Echo/Checkout from process exercises
 
+
+### Kickoff of the week
+
+1. What are they looking for during the interviews?
+- Not looking for professional
+- Proactive receptive to feedback
+- Potential 
+- Pair skills
+
+2. Fruit Machine
+- User stories/diagrams - classes, functions, features
+- Process flow
+```
+start game
+debit 10 from from player (enough money?)(pull level)
+show colours
+win?
+-yes play
+-no end game
+```
+1-- Break problem down into features? (edge cases)
+
+```
+Features
+Scenario: player starts a game
+when a player starts a game
+Then the player waits for the colour bar
+
+Scenario: player starts a game
+When a player starts a game
+Then the player pay 10 quid
+
+Scenario: when the player wins
+When the player wins the game
+Then she sees the message "You win!"
+
+Scenario: when the player loses
+When the player loses the game
+Then she sees the message "You lose"
+
+```
+2-- Domain modelling
+
+```
+nouns+verbs
+class diagrams
+from the user perspective
+```
+
+- Units:
+
+```
+player
+fruit machine
+slots
+random colour
+jackpor
+```
+
+3-- Experiment/research
+
+4-- Plan 
+
+```
+user stories- what's the order
+start with the simpliest
+edge cases the last
+```
+
+5-- Setup project
+
+```
+test framework
+linter
+readme (include the previous planning)
+test coverage
+git
+```
+
+6-- Start from a feature test
