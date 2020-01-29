@@ -13,22 +13,18 @@
 
 ## Daily Goals
 ### Day 1
-- GOAL: Think about my process of approaching a tech test
-stubbing time
-spies
-class interaction
-- REFLECTION: 
+- GOAL: Start the first tech test with good planning and stucture
+- REFLECTION: Thought about my process of approaching a tech test. Learned about strbbing time in the tests and using spies, class interaction
 > 
 
-
 ### Day 2
-- GOAL: Karma, feature tests
-- REFLECTION: 
+- GOAL: Setting up testing tool for Karma, add more feature tests
+- REFLECTION: Should have set up the testing tools in the beginning. Wrote feature tests 
 > 
 
 ### Day 3
-- GOAL: 
-- REFLECTION: 
+- GOAL: Finish the first tech test
+- REFLECTION: Had my first review. leaned about approach a tech test in the workshop
 
 ### Day 4
 - GOAL: 
