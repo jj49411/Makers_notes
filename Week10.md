@@ -172,3 +172,19 @@ git
 ```
 
 6-- Start from a feature test
+
+
+### Tech interview
+
+1. What to expect
+- take home test
+- pair programme 
+keep talking
+- past projects
+final + 1
+ducument the challenge
+- chit chat
+
+why you choose that tech?
+
+how javascript/rection different from anglaer
