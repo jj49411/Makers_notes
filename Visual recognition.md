@@ -30,7 +30,8 @@
 | Train 5 items | Added 3 more items on the first trial. The accuracy is surprisingly great. It knows almost all the items in the clear-background images. It even recognises garlic (which was not working well on the previous experiment) |
 | Train other 5 items | We wanted to test other items and see if it works for the photos we took. This time it didn’t work well when testing the pics from us. <see below> It recognised apple as orange, cannot recognise banana. The training models work well with the images from google(clear, clean background) only |
 
-- Then we hit the free usage limit. What we’ll do next is to add more pictures for each categories including real life ones, so it recognises the objects as what we input. 
+- Then we hit the free usage limit. What we’ll do next is to add more pictures for each categories including real life ones, so it recognises the objects as what we input
+- For the concept of recognising ingredients through fridge photos, we found it hard with visual recognition as most of the items are wrapped in package/containers. After the research and experiments for 2 days, we've decided to keep the idea of recipe generator, but using 'sound' as input - turning speech into text!
 
 ## Factors affecting recognition performance
 - Pixel/Resolution
