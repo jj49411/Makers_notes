@@ -1,14 +1,9 @@
 # Visual recognition API
 
-## Process
-1. Download Batch Image Chrome Extension. [Link here](https://chrome.google.com/webstore/detail/batch-image-downloadfull/ahajhopfbfpekcljjjppolcmapaidldc?hl=en
-)
-2. 
-
 ## Useful links 
-
-- [Trainging imagine classifier using AutoML Vision](https://www.youtube.com/watch?v=3342PeX1aNY)
-- [Training and testing models using IBM Watson Studio](https://www.youtube.com/watch?v=KIw_iac56Hc)
+- Download Batch Image Chrome Extension. [Link here](https://chrome.google.com/webstore/detail/batch-image-downloadfull/ahajhopfbfpekcljjjppolcmapaidldc?hl=en)
+- AutoML Vision - Trainging imagine classifier. [Link here](https://www.youtube.com/watch?v=3342PeX1aNY)
+- IBM Watson Studio - Training and testing models. [Link here](https://www.youtube.com/watch?v=KIw_iac56Hc)
 
 
 ## Reflection  
